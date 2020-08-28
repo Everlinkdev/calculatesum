@@ -1,2 +1,2 @@
 # calculatesum
-A simple android livrary to help calculate number based another 
+A simple android library to help calculate number based another 
