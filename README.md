@@ -1,2 +1,2 @@
 # calculatesum
-Calculate number based on sum
+A simple android livrary to help calculate number based another 
